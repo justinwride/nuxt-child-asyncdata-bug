@@ -1,0 +1,16 @@
+{
+  "name": "nuxt-child-asyncdata-store",
+  "version": "1.0.0",
+  "description": "NuxtChild does not wait for the parent asyncData to finish",
+  "main": "pages/index.vue",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "nuxt": "^2.15.7"
+  }
+}
